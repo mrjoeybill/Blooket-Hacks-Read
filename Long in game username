@@ -1,1 +1,9 @@
-maxlength="100"
+(function(){
+    Array.from(document.querySelectorAll("input")).map(n=>n.removeAttribute("maxLength"))
+})();
+
+DELETE THIS AND UNDER
+
+Credit to tungdo0602
+
+Paste to into inspect consle
