@@ -2,7 +2,7 @@
     Array.from(document.querySelectorAll("input")).map(n=>n.removeAttribute("maxLength"))
 })();
 
-DELETE THIS AND UNDER
+///DELETE THIS AND UNDER///
 
 Credit to tungdo0602
 
